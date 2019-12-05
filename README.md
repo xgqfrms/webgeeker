@@ -1,2 +1,6 @@
 # webgeeker
-webgeeker &amp; https://www.webgeeker.xyz
+
+old: https://www.webgeeker.xyz
+
+new: https://webgeeker.xgqfrms.xyz
+
